@@ -1,0 +1,8 @@
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Domain\bin\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Domain.deps.json
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Domain\bin\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Domain.dll
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Domain\bin\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Domain.pdb
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Domain\obj\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Domain.AssemblyInfoInputs.cache
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Domain\obj\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Domain.AssemblyInfo.cs
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Domain\obj\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Domain.dll
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Domain\obj\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Domain.pdb
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Domain\obj\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Domain.csprojAssemblyReference.cache

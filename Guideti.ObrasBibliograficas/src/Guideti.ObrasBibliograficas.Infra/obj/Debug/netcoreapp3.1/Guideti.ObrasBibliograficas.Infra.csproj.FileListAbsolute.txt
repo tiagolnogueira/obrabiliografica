@@ -1,0 +1,15 @@
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Infra\bin\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Infra.deps.json
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Infra\bin\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Infra.dll
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Infra\obj\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Infra.csprojAssemblyReference.cache
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Infra\obj\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Infra.AssemblyInfoInputs.cache
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Infra\obj\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Infra.AssemblyInfo.cs
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Infra\bin\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Infra.pdb
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Infra\bin\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Application.dll
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Infra\bin\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Domain.dll
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Infra\bin\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Application.pdb
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Infra\bin\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Domain.pdb
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Infra\obj\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Infra.csproj.CopyComplete
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Infra\obj\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Infra.dll
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Infra\obj\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Infra.pdb
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Infra\bin\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Infra.runtimeconfig.json
+C:\Users\tlnogueira\source\repos\Guideti.ObrasBibliograficas\src\Guideti.ObrasBibliograficas.Infra\bin\Debug\netcoreapp3.1\Guideti.ObrasBibliograficas.Infra.runtimeconfig.dev.json
